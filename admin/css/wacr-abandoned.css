@@ -1,0 +1,46 @@
+.abandoned{
+    border: 1px solid red;
+    padding: 4px;
+    background: #ff00002e;
+    color: black;
+    font-weight: 400;
+    max-width: 98px;
+    width: 134px;
+    text-align: center;
+    cursor: pointer;
+}
+.whatscart-for-woocommerce_page_wacr_abandoned_carts .recovered{
+    border: 1px solid rgb(93, 179, 67);
+    padding: 4px;
+    background: #93fd562e;
+    color: black;
+    font-weight: 400;
+    max-width: 98px;
+    width: 134px;
+    text-align: center;
+    cursor: pointer;
+}
+.whatscart-for-woocommerce_page_wacr_abandoned_carts .pending{
+    border: 1px solid rgb(255, 210, 7);
+    padding: 4px;
+    background: #f7d6452e;
+    color: black;
+    font-weight: 400;
+    max-width: 98px;
+    width: 134px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.widefat tbody th.check-column, .widefat tfoot td.check-column, .widefat thead td.check-column {
+    padding: 0px 0 0 3px;
+    vertical-align: middle;
+}
+.widefat td, .widefat th {
+    vertical-align: middle;
+    font-size: 13px;
+}
+.tablenav .actions {
+    padding: 0 8px 0 0;
+    margin-bottom: 10px;
+}

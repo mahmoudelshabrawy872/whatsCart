@@ -1,0 +1,223 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2022-10-20 14:10+0000\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: admin/class-wacr-admin.php:547
+msgid "<a class=\"wacr_know_how_to_get\" href=\"\">(Edit Template) </a>"
+msgstr ""
+
+#: admin/class-wacr-admin.php:281
+msgid "<div class=\"wacr-heading2\"> Template Settings </div>"
+msgstr ""
+
+#: admin/partials/wacr-abandoned_carts.php:70
+msgid "Abandoned"
+msgstr ""
+
+#: admin/class-wacr-admin.php:126 admin/class-wacr-admin.php:127
+msgid "Abandoned Carts"
+msgstr ""
+
+#: admin/partials/wacr-abandoned_carts.php:26
+msgid "Abandoned Orders"
+msgstr ""
+
+#: admin/class-wacr-admin.php:274
+msgid "Abandoned Time Settings"
+msgstr ""
+
+#: admin/partials/wacr-admin-display.php:22
+msgid "Admin Section"
+msgstr ""
+
+#: admin/class-wacr-admin.php:182
+msgid "Admin User Details"
+msgstr ""
+
+#: admin/partials/wacr-edit-templates.php:36
+msgid "Back to home"
+msgstr ""
+
+#: admin/partials/wacr-edit-templates.php:157
+msgid "Body parameter is not available for selection"
+msgstr ""
+
+#: admin/partials/wacr-admin-display.php:26
+msgid "Cron/Template Settings"
+msgstr ""
+
+#: admin/class-wacr-admin.php:260
+msgid "DND Timing"
+msgstr ""
+
+#: admin/class-wacr-admin.php:143 admin/class-wacr-admin.php:144 
+#: admin/partials/wacr-documentation.php:20
+msgid "Documentation"
+msgstr ""
+
+#: admin/class-wacr-admin.php:152 admin/class-wacr-admin.php:153
+msgid "Edit Template"
+msgstr ""
+
+#: admin/partials/wacr-edit-templates.php:33
+msgid "Edit Templates"
+msgstr ""
+
+#: admin/class-wacr-admin.php:250
+msgid "Enable DND"
+msgstr ""
+
+#: admin/class-wacr-admin.php:358
+msgid "Enable Order Success Notification"
+msgstr ""
+
+#: admin/class-wacr-admin.php:429
+msgid ""
+"Enter your unique WhatsApp Bearer Access Token. <a "
+"class=\"wacr_know_how_to_get\" href=\"\">(How to get it?) </a>"
+msgstr ""
+
+#: admin/class-wacr-admin.php:450
+msgid ""
+"Enter your unique WhatsApp Business ID <a class=\"wacr_know_how_to_get\" "
+"href=\"\">(How to get it?) </a>"
+msgstr ""
+
+#: admin/class-wacr-admin.php:441
+msgid ""
+"Enter your WhatsApp mobile number for your business. <a "
+"class=\"wacr_know_how_to_get\" href=\"\">(How to get it?) </a>"
+msgstr ""
+
+#: admin/class-wacr-admin.php:459
+msgid ""
+"Enter your WhatsApp Mobile Number ID <a class=\"wacr_know_how_to_get\" "
+"href=\"\">(How to get it?) </a>"
+msgstr ""
+
+#: admin/class-wacr-admin.php:340
+msgid "Fifth Message"
+msgstr ""
+
+#: admin/class-wacr-admin.php:300
+msgid "First Message"
+msgstr ""
+
+#: admin/class-wacr-admin.php:330
+msgid "Fourth Message"
+msgstr ""
+
+#: admin/partials/wacr-edit-templates.php:123
+msgid "Header parameter is not available for selection"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://techspawn.com/"
+msgstr ""
+
+#: admin/class-wacr-admin.php:118 admin/class-wacr-admin.php:119 
+#: admin/partials/wacr-admin-display.php:30 
+#: admin/partials/wacr-manage-templates.php:21
+msgid "Manage Templates"
+msgstr ""
+
+#: admin/class-wacr-admin.php:546 admin/class-wacr-admin.php:574 
+#: admin/class-wacr-admin.php:598 admin/class-wacr-admin.php:622 
+#: admin/class-wacr-admin.php:646
+msgid "Minutes."
+msgstr ""
+
+#: admin/class-wacr-admin.php:134 admin/class-wacr-admin.php:135 
+#: admin/class-wacr-admin.php:352
+msgid "Order Notification"
+msgstr ""
+
+#: admin/partials/wacr-order-notification.php:20
+msgid "Order notification"
+msgstr ""
+
+#: admin/class-wacr-admin.php:368
+msgid "Order Success Template"
+msgstr ""
+
+#: admin/partials/wacr-abandoned_carts.php:73
+msgid "Recovered"
+msgstr ""
+
+#: admin/partials/wacr-abandoned_carts.php:67
+msgid "Pending"
+msgstr ""
+
+#: admin/class-wacr-admin.php:310
+msgid "Second Message"
+msgstr ""
+
+#: admin/partials/wacr-edit-templates.php:109 
+#: admin/partials/wacr-edit-templates.php:144
+msgid "Select Parameter"
+msgstr ""
+
+#: admin/class-wacr-admin.php:294
+msgid "Set Time Intervals"
+msgstr ""
+
+#. Author of the plugin
+msgid "TechSpawn"
+msgstr ""
+
+#: admin/class-wacr-admin.php:320
+msgid "Third Message"
+msgstr ""
+
+#: admin/class-wacr-admin.php:239
+msgid "Time Interval"
+msgstr ""
+
+#: admin/class-wacr-admin.php:486
+msgid "Total time to set the cart as abandoned after user leaves the site."
+msgstr ""
+
+#: admin/partials/wacr-abandoned_carts.php:76
+msgid "Unknown"
+msgstr ""
+
+#. Name of the plugin
+msgid "WhatsCart for WooCommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"WhatsCart for WooCommerce plugin allows you to send left out cart "
+"reminders on WhatsApp to customers. Also can define scheduler to send "
+"automated notifications for abandoned cart users by selecting Whatsapp "
+"templates. his is a short description of what the plugin does. It's "
+"displayed in the WordPress admin area."
+msgstr ""
+
+#: admin/class-wacr-admin.php:188
+msgid "WhatsApp Bearer Token"
+msgstr ""
+
+#: admin/class-wacr-admin.php:208
+msgid "WhatsApp Business Account ID"
+msgstr ""
+
+#: admin/class-wacr-admin.php:479
+msgid ""
+"WhatsApp Business ID <a class=\"wacr_know_how_to_get\" href=\"\">(How to get "
+"it?) </a>"
+msgstr ""
+
+#: admin/class-wacr-admin.php:198
+msgid "WhatsApp Mobile Number"
+msgstr ""
+
+#: admin/class-wacr-admin.php:218 admin/class-wacr-admin.php:229
+msgid "WhatsApp Phone number ID"
+msgstr ""

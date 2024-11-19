@@ -1,0 +1,13 @@
+.wacr_template_key {
+    background: #e1ffc7;
+    padding: 10px 20px;
+    border: 1px dotted rgb(211, 211, 211);
+    border-radius: 5px;
+    /* text-align: center; */
+    margin: 10px;
+    width: auto;
+    cursor: pointer;
+    display: block;
+    font-family: Monaco, monospace; cursor: pointer;
+    font-size: 12px;
+  }

@@ -1,0 +1,10 @@
+.dataTables_wrapper .dataTables_length select{
+    padding-right:20px !important;
+}
+#wacr_manage_templates {
+    align-content: center;
+}
+
+.wacr_label_class{
+    width: 100px;
+}
